@@ -1,8 +1,9 @@
+import CreatorCard from '@/components/CreatorCard'
 import React from 'react'
 
 export default function About() {
   return (
-    <div>About</div>
+  <CreatorCard name="George S Mulbah" imageUrl={require('../../public/assets/images/george_mulbah.png')} role='Software Engineer' />
   )
 }
 
