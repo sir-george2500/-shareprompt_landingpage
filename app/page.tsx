@@ -15,7 +15,7 @@ const Home: React.FC = () => {
                 <PhotoCard title='Creating is now easier' description='We have made creating a prompt easier than before'  imageUrl='/assets/images/create_prompt.png'/>
                 <PhotoCard title='View other prompt' description='We have added a copy button to not just view but also support easy copying of others prompt'  imageUrl='/assets/images/view_other_user_prompt.png'/>
                 <PhotoCard title='Sigin With Google now Supported' description='It now possible for you to sigin with google'  imageUrl='/assets/images/sigin_with_google.png'/>
-                <PhotoCard title='My Profile was added' description='It a look at your new Profile you can view all your created prompt there'  imageUrl='/assets/images/user_profile.png'/>
+                <PhotoCard title='My Profile was added' description='Take a look at your new Profile you can view all your created prompt there'  imageUrl='/assets/images/user_profile.png'/>
             </div>
         </section>
     );
