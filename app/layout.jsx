@@ -2,12 +2,11 @@ import '../styles/globals.css';
 import Nav from '../components/Nav'
 
 
-
-
-export const metadata: Metadata = {
+export const metadata = {
   title: 'promptspace',
-  description: 'Discover and share Powerful AI prompt',
+  description: 'Discover and share Powereful AI prompt',
 };
+
 
 export default function RootLayout({children}) {
   return (
