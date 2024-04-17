@@ -18,7 +18,7 @@ const PhotoCard: React.FC<PhotoCardProps> = ({ title, description, imageUrl }) =
                     <p className="font-normal text-gray-700 dark:text-gray-400">{description}</p>
                 </div>
                 <div className='flex items-center ml-auto'>
-                    <Image src={imageUrl} width={600} height={600} alt="Edit Prompt" />
+                    <Image src={imageUrl} width={600} height={600} alt='photo card' />
                 </div>
             </a>
         </div>
