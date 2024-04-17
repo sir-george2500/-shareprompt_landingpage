@@ -1,10 +1,7 @@
 import '../styles/globals.css';
 import Nav from '../components/Nav'
 
-interface Metadata {
-  title: string;
-  description: string;
-}
+
 
 
 export const metadata: Metadata = {
